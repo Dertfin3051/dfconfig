@@ -2,7 +2,7 @@
 # Use Documentation.txt for learn functions
 
 
-_version = "0.1.3b"
+_version = "0.1.4b"
 
 
 def getString(file, variable):
