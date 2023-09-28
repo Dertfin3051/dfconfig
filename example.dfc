@@ -1,0 +1,8 @@
+_text_ = "Hello World!"
+_number_ = 2023
+_fractional-number_ = 3.14
+_boolean-1_ = True
+_boolean-0_ = False
+
+You can create comments in free lines!
+Don't use variable names in comments!
