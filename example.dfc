@@ -5,4 +5,4 @@ _boolean-1_ = True
 _boolean-0_ = False
 
 You can create comments in free lines!
-Don't use variable names in comments!
+Don't use variable names in comments/var-contexts!

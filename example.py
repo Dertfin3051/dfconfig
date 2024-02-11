@@ -5,7 +5,8 @@ from DFConfig import dfc
 # Make new variable in code or use print()
 # Получаем данные из переменной типа String
 # Создайте новую переменную в коде или используйте print()
-dfc.getString("example.dfc", "text")    # "Get" arguments is : File name and path, Variable name
+dfc.getString("example.dfc", "text")
+# "Get" arguments is : File name and path, Variable name
 
 # Let's change information to String variable!
 # Давайте изменим данные в текстовой переменной
@@ -23,4 +24,6 @@ dfc.setFloat()
 # Boolean
 dfc.getBoolean()
 dfc.setBoolean()
+
+
 
